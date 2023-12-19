@@ -1,12 +1,14 @@
 # Flex Money Yoga Class Registration
 
+![Landing Page]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/landingpage.png))
 
+![Enrollment Form]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/enrollmentform.png))
 
+![Payment Form 1]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/paymentform.png))
 
+![Payment Form 2]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/paymentform2.png))
 
-
-
-
+![Payment Successful]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/paymentsuccess.png))
 
 
 # Getting Started with Create React App
