@@ -1,4 +1,9 @@
 # Flex Money Yoga Class Registration
+## Deployed on vercel
+
+  [Link to website](https://yogaclass-client.vercel.app/)
+
+  
 
 ![Landing Page]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/manojnjaya1/Yogaclass-client/blob/master/landingpage.png))
 
